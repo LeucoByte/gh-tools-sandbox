@@ -2,11 +2,9 @@
 
 
 def add(a, b):
-    """Return a + b."""
+    """Return the sum."""
     return a + b
 
 
-def subtract(a, b):
-    """Return a - b."""
-    return a - b
-# fix
+def twice(a):
+    return a * 2
